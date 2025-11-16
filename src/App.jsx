@@ -5,7 +5,6 @@ import UpperSection from './Components/Section/UpperSection'
 import LowerSection from './Components/Section/LowerSection'
 import Main from './Components/Main/Main'
 import Testimonial from './Components/Testimonials/Testimonial'
-import Footer from '/src/Components/Footer/Footer.jsx'
 
 
 const App = () => {
@@ -17,7 +16,6 @@ const App = () => {
       <LowerSection/>
       <Main/>
       <Testimonial/>
-      <Footer/>
     </div>
   )
 }
