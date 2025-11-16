@@ -5,7 +5,7 @@ import UpperSection from './Components/Section/UpperSection'
 import LowerSection from './Components/Section/LowerSection'
 import Main from './Components/Main/Main'
 import Testimonial from './Components/Testimonials/Testimonial'
-import Footer from './Components/Footer/Footer.jsx'
+import Footer from '/src/Components/Footer/Footer.jsx'
 
 
 const App = () => {
