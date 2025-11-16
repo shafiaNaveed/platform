@@ -5,7 +5,8 @@ import UpperSection from './Components/Section/UpperSection'
 import LowerSection from './Components/Section/LowerSection'
 import Main from './Components/Main/Main'
 import Testimonial from './Components/Testimonials/Testimonial'
-import Footer from './Components/Footer/footer'
+import Footer from './Components/Footer/Footer'
+
 
 const App = () => {
   return (
